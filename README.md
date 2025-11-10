@@ -236,3 +236,16 @@ SELECT * FROM v_market_summary ORDER BY avg_price DESC LIMIT 50;
 
 /* End of script */
 
+
+
+
+
+
+OUTCOMES:
+1) Highest product count sold for the following formulations: Tablet, Syrup and Capsule.
+2) Lowest product count sold for the following formulations: Powder, Spray and Ointment.
+3) Highest price per dosage for: Solution, Injection and Spray.
+4) Lowest price per dosage for: Powder, Suspension, Syrup.
+5) Highest therapeutic market for: Analgesics, Antibiotics, Cardiovascular (formlation for all three: tablets).
+7) Top market size held by: Alkem Laboratories Ltd., Cipla Ltd., Sun Pharmaceuticals Ltd.
+
